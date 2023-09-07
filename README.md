@@ -48,7 +48,7 @@ try {
 
 ### `PAN`
 
-PAN ([Permanent Account Number](https://en.wikipedia.org/wiki/Permanent_account_number)) is a unique ten-character alphanumeric identifier issued by the Income Tax Department of India. It is widely used for financial and tax-related purposes.
+PAN ([Permanent Account Number](https://en.wikipedia.org/wiki/Permanent_account_number)) is a unique ten-character alphanumeric identifier issued by the [Income Tax Department](https://incometaxindia.gov.in/) of India. It is widely used for financial and tax-related purposes.
 
 ### `AADHAAR`
 
