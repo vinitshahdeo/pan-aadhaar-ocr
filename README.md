@@ -60,10 +60,11 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 This module is licensed under the MIT License.
 
-<br/>
-<br/>
-<div align='center'>
-<strong><sup>Made with ❤️ for 🇮🇳</strong></sup>
-</div>
-<br/>
-<br/>
+<br />
+  <table align="center">
+      <tr>
+          <td>
+            <strong>Made with ❤️ by <a href='https://twitter.com/Vinit_Shahdeo'>@vinitshahdeo</a> for India 🇮🇳</strong>
+          </td>
+      </tr>
+  </table>
