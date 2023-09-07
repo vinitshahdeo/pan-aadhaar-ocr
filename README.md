@@ -59,3 +59,11 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This module is licensed under the MIT License.
+
+<br/>
+<br/>
+<div align='center'>
+<strong><sup>Made with ❤️ for 🇮🇳</strong></sup>
+</div>
+<br/>
+<br/>
