@@ -1,4 +1,4 @@
-![](./media/banner.jpg)
+![](./media/banner.png)
 # PAN and Aadhaar OCR Extractor
 
 A Node.js package for extracting PAN and Aadhaar card numbers from scanned images using Optical Character Recognition (OCR).
