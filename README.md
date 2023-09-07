@@ -8,11 +8,15 @@ A Node.js package for extracting PAN and Aadhaar card numbers from scanned image
 - **Lightweight & performant package available on NPM**.
 
 ## Installation
-
-You can install this package using npm:
+You can install this package using **npm**:
 
 ```bash
 npm install pan-aadhaar-ocr
+```
+Or, if you prefer using **yarn**:
+
+```bash
+yarn add pan-aadhaar-ocr
 ```
 
 ## Usage
