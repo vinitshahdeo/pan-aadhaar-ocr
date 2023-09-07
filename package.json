@@ -18,6 +18,7 @@
     "Government",
     "number"
   ],
+  "author": "Vinit Shahdeo <https://vinitshahdeo.dev>",
   "license": "MIT",
   "dependencies": {
     "sharp": "^0.32.5",
