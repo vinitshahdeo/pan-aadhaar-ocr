@@ -65,7 +65,7 @@ PAN ([Permanent Account Number](https://en.wikipedia.org/wiki/Permanent_account_
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
-This module is licensed under the MIT License.
+This module is licensed under the [MIT License](./LICENSE).
 
 <br />
   <table align="center">
