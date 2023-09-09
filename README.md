@@ -85,3 +85,6 @@ This module is authored by [Vinit Shahdeo](https://peerlist.io/vinitshahdeo) and
           </td>
       </tr>
   </table>
+<div align='center'>
+<a href='https://peerlist.io/vinitshahdeo'><img src='https://github-readme-badge.peerlist.io/api/vinitshahdeo'></a>
+</div>
