@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src='./media/banner.png' height='50%' width='50%'/><br/>
+    <img src='https://raw.githubusercontent.com/vinitshahdeo/pan-aadhaar-ocr/main/media/banner.png' height='50%' width='50%'/><br/>
     <img src='https://img.shields.io/npm/v/pan-aadhaar-ocr?logo=npm&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fpan-aadhaar-ocr'/>
     <img src='https://img.shields.io/github/license/vinitshahdeo/pan-aadhaar-ocr?logo=github' />
     <a href='https://twitter.com/Vinit_Shahdeo'>
