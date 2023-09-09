@@ -72,7 +72,7 @@ For KYC processes, use the following API to validate PAN and AADHAAR:
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
-This module is licensed under the [MIT License](./LICENSE).
+This module is authored by [Vinit Shahdeo](https://peerlist.io/vinitshahdeo) and licensed under the [MIT License](./LICENSE).
 
 <br />
   <table align="center">
