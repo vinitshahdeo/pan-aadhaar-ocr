@@ -1,6 +1,6 @@
 {
   "name": "pan-aadhaar-ocr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract PAN and Aadhaar (UIDAI) card numbers from scanned images using OCR",
   "main": "src/index.js",
   "scripts": {
