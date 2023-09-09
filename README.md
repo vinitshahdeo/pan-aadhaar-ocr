@@ -61,6 +61,13 @@ PAN ([Permanent Account Number](https://en.wikipedia.org/wiki/Permanent_account_
 
 [Aadhaar](https://en.wikipedia.org/wiki/Permanent_account_number) is a 12-digit unique identity number issued by the Unique Identification Authority of India ([UIDAI](https://uidai.gov.in/)). It is used for various government and private sector services and is a crucial identification document in India.
 
+## PAN & AADHAAR Validation
+
+For KYC processes, use the following API to validate PAN and AADHAAR:
+
+- [PAN Verification](https://developer.sandbox.co.in/reference/pan-verification-basic-api)
+- [Aadhaar Verification](https://developer.sandbox.co.in/reference/aadhaar-okyc-generate-otp-api)
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
