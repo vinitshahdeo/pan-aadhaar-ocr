@@ -9,9 +9,11 @@
 
 A Node.js package for extracting PAN and Aadhaar card numbers from scanned images using Optical Character Recognition (OCR).
 
-- **Validate PAN and Aadhaar cards with ease**.
+- **Validate PAN and Aadhaar cards with ease during KYC processes**.
 - **Extract card details quickly from scanned images**.
 - **Lightweight & performant package available on NPM**.
+
+> **Learn more on [Dev.to](https://dev.to/vinitshahdeo/simplify-kyc-with-pan-and-aadhaar-card-ocr-2f33)**.
 
 ## Installation
 You can install this package using **npm**:
@@ -31,7 +33,7 @@ yarn add pan-aadhaar-ocr
 const {extractCardDetails} = require('pan-aadhaar-ocr');
 
 const imagePath = 'path/to/your/image.jpg'; // Pass path to your PAN/Aadhaar image
-const cardType = 'PAN'; // Card type can either be `PAN`` or `AADHAAR`
+const cardType = 'PAN'; // Card type can either be `PAN` or `AADHAAR`
 
 extractCardDetails(imagePath, cardType)
     .then((extractedDetails) => {
